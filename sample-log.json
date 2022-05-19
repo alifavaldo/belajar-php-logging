@@ -1,0 +1,2 @@
+{"message":"Belajar PHP Logger","context":{"username":"crayon"},"level":200,"level_name":"INFO","channel":"FormatterTest","datetime":"2022-05-19T09:06:05.174505+02:00","extra":{"hostname":"DESKTOP-D4UEAS9","memory_usage":"4 MB","git":[]}},
+{"message":"Belajar PHP Logger Lagi","context":{"username":"crayon"},"level":200,"level_name":"INFO","channel":"FormatterTest","datetime":"2022-05-19T09:06:05.314137+02:00","extra":{"hostname":"DESKTOP-D4UEAS9","memory_usage":"4 MB","git":[]}}

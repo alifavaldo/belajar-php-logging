@@ -1,0 +1,4 @@
+[2022-05-18T15:52:02.411938+02:00] Alifavaldo\Belajar\PHP\MVC\LevelTest.ERROR: This is error [] []
+[2022-05-18T15:52:02.416950+02:00] Alifavaldo\Belajar\PHP\MVC\LevelTest.CRITICAL: This is critical [] []
+[2022-05-18T15:52:02.417401+02:00] Alifavaldo\Belajar\PHP\MVC\LevelTest.ALERT: This is alert [] []
+[2022-05-18T15:52:02.417671+02:00] Alifavaldo\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is emergency [] []
